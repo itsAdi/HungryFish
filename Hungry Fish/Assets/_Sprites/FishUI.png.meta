@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: 06fb17703b66f1a4b849f0b023f44787
+timeCreated: 1516966845
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2X
+    21300002: SHIELD
+    21300004: bar
+    21300006: bg
+    21300008: bottom button
+    21300010: facebook
+    21300012: gameover
+    21300014: heart plus
+    21300016: home
+    21300018: joystickBase
+    21300020: joystickHandle
+    21300022: leaderboard
+    21300024: life
+    21300026: more games
+    21300028: paused
+    21300030: play
+    21300032: quit
+    21300034: retry
+    21300036: shadow button
+    21300038: sound off
+    21300040: sound on
+    21300042: upperhalf button
+    21300044: progressBar
+    21300046: barMask
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2X
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 162
+        width: 139
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SHIELD
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1809
+        width: 87
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bar
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1687
+        width: 931
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 24
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: bottom button
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1809
+        width: 192
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: facebook
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1048
+        width: 141
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gameover
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1226
+        width: 785
+        height: 459
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: heart plus
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 746
+        width: 141
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: home
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 24
+        width: 142
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: joystickBase
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 24
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: joystickHandle
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 746
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: leaderboard
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1910
+        width: 141
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: life
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 326
+        width: 85
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: more games
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 415
+        width: 141
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: paused
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 746
+        width: 785
+        height: 478
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: play
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 162
+        width: 141
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: quit
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 24
+        width: 141
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: retry
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1186
+        width: 141
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shadow button
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 553
+        width: 130
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sound off
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1048
+        width: 141
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: sound on
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 884
+        width: 141
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: upperhalf button
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 326
+        width: 192
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: progressBar
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1994
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 12, z: 7, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: barMask
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1996
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

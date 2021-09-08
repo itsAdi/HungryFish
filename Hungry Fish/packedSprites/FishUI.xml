@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packer>
+<texture name="FishUI.png">
+	<sprite name="2X">
+		<x>1729</x>
+		<y>162</y>
+		<width>139</width>
+		<height>107</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="SHIELD">
+		<x>196</x>
+		<y>1809</y>
+		<width>87</width>
+		<height>88</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="bar">
+		<x>2</x>
+		<y>1687</y>
+		<width>931</width>
+		<height>120</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="bg">
+		<x>2</x>
+		<y>24</y>
+		<width>1280</width>
+		<height>720</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="bottom button">
+		<x>2</x>
+		<y>1809</y>
+		<width>192</width>
+		<height>99</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="facebook">
+		<x>789</x>
+		<y>1048</y>
+		<width>141</width>
+		<height>136</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="gameover">
+		<x>2</x>
+		<y>1226</y>
+		<width>785</width>
+		<height>459</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="heart plus">
+		<x>1091</x>
+		<y>746</y>
+		<width>141</width>
+		<height>136</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="home">
+		<x>1586</x>
+		<y>24</y>
+		<width>142</width>
+		<height>136</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="joystickBase">
+		<x>1284</x>
+		<y>24</y>
+		<width>300</width>
+		<height>300</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="joystickHandle">
+		<x>789</x>
+		<y>746</y>
+		<width>300</width>
+		<height>300</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="leaderboard">
+		<x>2</x>
+		<y>1910</y>
+		<width>141</width>
+		<height>136</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="life">
+		<x>1478</x>
+		<y>326</y>
+		<width>85</width>
+		<height>75</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="more games">
+		<x>1284</x>
+		<y>415</y>
+		<width>141</width>
+		<height>136</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="paused">
+		<x>2</x>
+		<y>746</y>
+		<width>785</width>
+		<height>478</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="play">
+		<x>1586</x>
+		<y>162</y>
+		<width>141</width>
+		<height>136</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="quit">
+		<x>1730</x>
+		<y>24</y>
+		<width>141</width>
+		<height>136</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="retry">
+		<x>789</x>
+		<y>1186</y>
+		<width>141</width>
+		<height>136</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="shadow button">
+		<x>1284</x>
+		<y>553</y>
+		<width>130</width>
+		<height>138</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="sound off">
+		<x>932</x>
+		<y>1048</y>
+		<width>141</width>
+		<height>136</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="sound on">
+		<x>1091</x>
+		<y>884</y>
+		<width>141</width>
+		<height>136</height>
+		<index>-1</index>
+	</sprite>
+	<sprite name="upperhalf button">
+		<x>1284</x>
+		<y>326</y>
+		<width>192</width>
+		<height>87</height>
+		<index>-1</index>
+	</sprite>
+</texture>
+</packer>

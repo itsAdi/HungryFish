@@ -1,0 +1,159 @@
+
+FishUI.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2X
+  rotate: false
+  xy: 1729, 162
+  size: 139, 107
+  orig: 150, 150
+  offset: 11, 22
+  index: -1
+SHIELD
+  rotate: false
+  xy: 196, 1809
+  size: 87, 88
+  orig: 100, 100
+  offset: 6, 6
+  index: -1
+bar
+  rotate: false
+  xy: 2, 1687
+  size: 931, 120
+  orig: 934, 120
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 24
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+bottom button
+  rotate: false
+  xy: 2, 1809
+  size: 192, 99
+  orig: 192, 99
+  offset: 0, 0
+  index: -1
+facebook
+  rotate: false
+  xy: 789, 1048
+  size: 141, 136
+  orig: 141, 136
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 2, 1226
+  size: 785, 459
+  orig: 785, 459
+  offset: 0, 0
+  index: -1
+heart plus
+  rotate: false
+  xy: 1091, 746
+  size: 141, 136
+  orig: 141, 136
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 1586, 24
+  size: 142, 136
+  orig: 142, 136
+  offset: 0, 0
+  index: -1
+joystickBase
+  rotate: false
+  xy: 1284, 24
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+joystickHandle
+  rotate: false
+  xy: 789, 746
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+leaderboard
+  rotate: false
+  xy: 2, 1910
+  size: 141, 136
+  orig: 141, 136
+  offset: 0, 0
+  index: -1
+life
+  rotate: false
+  xy: 1478, 326
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+more games
+  rotate: false
+  xy: 1284, 415
+  size: 141, 136
+  orig: 141, 136
+  offset: 0, 0
+  index: -1
+paused
+  rotate: false
+  xy: 2, 746
+  size: 785, 478
+  orig: 785, 478
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 1586, 162
+  size: 141, 136
+  orig: 141, 136
+  offset: 0, 0
+  index: -1
+quit
+  rotate: false
+  xy: 1730, 24
+  size: 141, 136
+  orig: 141, 136
+  offset: 0, 0
+  index: -1
+retry
+  rotate: false
+  xy: 789, 1186
+  size: 141, 136
+  orig: 141, 136
+  offset: 0, 0
+  index: -1
+shadow button
+  rotate: false
+  xy: 1284, 553
+  size: 130, 138
+  orig: 130, 138
+  offset: 0, 0
+  index: -1
+sound off
+  rotate: false
+  xy: 932, 1048
+  size: 141, 136
+  orig: 141, 136
+  offset: 0, 0
+  index: -1
+sound on
+  rotate: false
+  xy: 1091, 884
+  size: 141, 136
+  orig: 141, 136
+  offset: 0, 0
+  index: -1
+upperhalf button
+  rotate: false
+  xy: 1284, 326
+  size: 192, 87
+  orig: 192, 87
+  offset: 0, 0
+  index: -1

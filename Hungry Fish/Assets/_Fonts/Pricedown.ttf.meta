@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d94eb12e509b9704b9ea140bb306dbd5
+timeCreated: 1511347281
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pricedown
+  fontNames:
+  - Pricedown
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

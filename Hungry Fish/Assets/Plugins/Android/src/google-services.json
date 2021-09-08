@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "98366293561",
+    "firebase_url": "https://hungry-fish-307bc.firebaseio.com",
+    "project_id": "hungry-fish-307bc",
+    "storage_bucket": "hungry-fish-307bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98366293561:android:2f1b61859a65c4ed",
+        "android_client_info": {
+          "package_name": "com.kemothstudios.hungryfish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98366293561-sprrq1rmg0l4qi5hamgbmnnn1va3s5av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kemothstudios.hungryfish",
+            "certificate_hash": "c7934908dd78404bfa7b3bcb01e0bd27fc6ece09"
+          }
+        },
+        {
+          "client_id": "98366293561-emgomo6rskahtkb7365pt7metorqn0g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqSl-aZL27eD447Pv012S28HG7HJpbVoY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98366293561-emgomo6rskahtkb7365pt7metorqn0g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
